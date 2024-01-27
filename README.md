@@ -29,4 +29,4 @@ To run this calculator on your local machine, follow these steps:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yourusername/java-calculator.git
+   git clone https://github.com/enock-sk/Calculator.git
